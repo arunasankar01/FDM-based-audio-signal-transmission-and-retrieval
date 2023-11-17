@@ -28,7 +28,8 @@ Combines the modulated signals to create a composite signal and displays its fre
 
 ## Demodulation
 1. Performs coherent Double-Sideband Suppressed Carrier (DSBSC) demodulation on the filtered signals.
-2. Applies low-pass filtering to retrieve the original audio signals and visualizes them in the time and frequency domains.
+2. Performs SSB demodulation on the extracted signals.
+3. Applies low-pass filtering to retrieve the original audio signals and visualizes them in the time and frequency domains.
 
 ## Audio Playback
 Allows the user to choose and replay the extracted voice signals using audioplayer.
