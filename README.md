@@ -1,6 +1,3 @@
-# Comm_Theory_Proj
-Term project in Communication Theory, based around using frequency division multiplexing for transmitting 3-4 voice signals over a single channel.
-
 ## Overview
 Multiple signals (ranging from 2-5) given as an input to a common channel will be modulated separately using different modulation techniques such as Double Side-Band Suppressed Carrier modulation (DSB-SC) Technique, Single Side-Band Technique and will be multiplexed using Frequency Division Multiplexing Algorithm (FDM) to ensure no mixing, overlapping, interference of any two or more signals takes place. Upon transmission, the user gets to choose the signal that he/she desires to listen to and the desired signal will be received at the receiver end.
 
